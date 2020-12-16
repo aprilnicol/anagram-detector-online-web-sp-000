@@ -10,4 +10,3 @@ def match(words)
     word.split("").sort == @word.split("").sort
   end
 end
-end
